@@ -1,0 +1,104 @@
+Green Room
+This room is entirely green. It's disturbing.
+Sam is here.
+You can see a book, a ball, and a rabbit here.
+
+>SAM, Enter the first number: 
+Sam doesn't reply.
+
+>HIT SAM
+You sock Sam right in the face.
+
+>X SAM
+Sam is short and rude.
+
+>RESTORE
+Enter filename to restore:
+
+>BOOK.sav
+BOOK.sav restored.
+
+Green Room
+This room is entirely green. It's disturbing.
+
+>SAM, Enter the second number: 
+Sam doesn't reply.
+
+>HIT SAM
+You sock Sam right in the face.
+
+>X SAM
+Sam is short and rude.
+
+>RESTORE
+Enter filename to restore:
+
+>BALL.sav
+BALL.sav restored.
+
+Green Room
+This room is entirely green. It's disturbing.
+
+>TELL SAM ABOUT RABBIT
+Sam is less than interested in the rabbit.
+
+>SHOW BALL TO SAM
+Sam couldn't care less about the ball.
+
+>ASK SAM ABOUT BOOK
+Sam doesn't reply.
+
+>SAM, BALL is equal to BOOK.
+Sam doesn't reply.
+
+>X SAM
+Sam is short and rude.
+
+>SHOW BOOK TO SAM
+Sam isn't interested in the book.
+
+>LIFT RABBIT
+You lift the rabbit.
+
+>TELL SAM ABOUT RABBIT
+Sam is less than interested in the rabbit.
+
+>SHOW BALL TO SAM
+Sam couldn't care less about the ball.
+
+>ASK SAM ABOUT BOOK
+Sam doesn't reply.
+
+>SAM, BALL is greater than BOOK.
+Sam doesn't reply.
+
+>X SAM
+Sam is short and rude.
+
+>SHOW BOOK TO SAM
+Sam isn't interested in the book.
+
+>DROP RABBIT. G
+You're not holding that!
+You're not holding that!
+
+>TELL SAM ABOUT RABBIT
+Sam is less than interested in the rabbit.
+
+>SHOW BALL TO SAM
+Sam couldn't care less about the ball.
+
+>ASK SAM ABOUT BOOK
+Sam doesn't reply.
+
+>SAM, BALL is less than BOOK.
+Sam doesn't reply.
+
+>X SAM
+Sam is short and rude.
+
+>SHOW BOOK TO SAM
+Sam isn't interested in the book.
+
+>QUIT
+

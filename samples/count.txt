@@ -1,0 +1,25 @@
+Top of Tower
+You stand at the very pinnacle of the western tower. You can see for miles and miles in every
+direction. The wind whips crazily through your hair.
+You can see a ball and a stick here.
+
+>GET STICK
+Taken.
+
+>SET STICK TO 5
+You turn the hidden dial on the stick to 5.
+
+>LIFT BALL
+You lift the ball.
+
+>ATTACH BALL TO STICK
+You fasten the ball to the end of the stick.
+
+>X BALL
+The ball is a round plastic ball.
+
+>DETACH BALL FROM STICK
+You unfasten the ball from the stick.
+
+>QUIT
+

@@ -1,0 +1,54 @@
+Test Room
+You are in a testing room.
+Bob, Sam, Frank, Jessie, and Paul are here.
+You can see a book, a ball, the train, your coat, and some cheese here.
+Bill and Joe are here.
+
+>TAKE CHEESE
+Taken.
+
+>LIFT CHEESE
+You lift the cheese.
+
+>X CHEESE
+The cheese smells nice.
+
+>TAKE BOOK
+Taken.
+
+>X BOOK
+The book is entitled _Sammy's Revenge_.
+
+>LIFT BOOK. G. G. G.
+You lift the book.
+You lift the book.
+You lift the book.
+You lift the book.
+
+>TAKE TRAIN
+Taken.
+
+>LIFT TRAIN. G
+You lift the train.
+You lift the train.
+
+>HIT TRAIN WITH BOOK
+You smack the book against the train.
+
+>X TRAIN
+It's a plastic toy train.
+
+>TAKE COAT
+Taken.
+
+>PUT TRAIN IN COAT
+You wrap the coat around the train.
+
+>DROP COAT
+Dropped.
+
+>X COAT
+The coat is a nice leather jacket.
+
+>QUIT
+

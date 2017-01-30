@@ -1,0 +1,69 @@
+Fibonacci Room
+This room is 1 1 2 3 5 8 13 21.
+Paul is here.
+You can see a mug, a photo, a cabbage, a tack, and a shovel here.
+
+>PAUL, This computes the Fibonacci series value for any positive number.
+Paul seems interested.
+
+>X PAUL
+Paul is a low-down, dirty scumbag.
+
+>PAUL, Enter number: 
+Paul doesn't respond.
+
+>HIT PAUL
+You punch Paul right in the jaw.
+
+>X PAUL
+Paul is a nice guy, really.
+
+>RESTORE
+Enter file name to restore:
+
+>MUG.sav
+Restored.
+
+>LIFT PHOTO
+You lift the photo.
+
+>LIFT CABBAGE
+You lift the cabbage.
+
+>LIFT TACK. G. G
+You lift the tack.
+You lift the tack.
+You lift the tack.
+
+>FASTEN TACK TO MUG
+You attach the tack to the mug.
+
+You can see a shovel here.
+
+>PUT PHOTO IN SHOVEL
+You place the photo in the shovel.
+
+>PUT CABBAGE IN SHOVEL
+You place the cabbage in the shovel.
+
+You can see a photo here.
+
+>PUT CABBAGE IN PHOTO
+You place the cabbage in the photo.
+
+You can see a cabbage here.
+
+>PUT SHOVEL IN CABBAGE
+You place the shovel in the cabbage.
+
+>UNFASTEN TACK FROM MUG
+You detach the tack from the mug.
+
+>PAUL, Fibonacci of +MUG is +CABBAGE.
+Paul seems disinterested.
+
+>EXAMINE PAUL
+Paul is rather odd.
+
+>EXIT
+
