@@ -1,0 +1,71 @@
+Rectangular Room
+This room is rectangular in shape and very plain.
+Guillermo is here.
+You can see a paperclip, a discus, a bagel, and a cork here.
+
+>GUILLERMO, Enter X dimension: 
+Guillermo doesn't respond.
+
+>HIT GUILLERMO
+You sock Guillermo in the mouth.
+
+>X GUILLERMO
+Guillermo is very short.
+
+>RESTORE
+Enter filename to restore:
+
+>PAPERCLIP.sav
+Restored.
+
+>GUILLERMO, Enter Y dimension: 
+Guillermo doesn't respond.
+
+>HIT GUILLERMO
+You sock Guillermo in the mouth.
+
+>X GUILLERMO
+Guillermo is very short.
+
+>RESTORE
+Enter filename to restore:
+
+>CORK.sav
+Restored.
+
+>LIFT DISCUS
+You heft the discus in your hand.
+
+>HOOK DISCUS TO CORK
+You attach the discus to the cork.
+
+>GUILLERMO, [] 
+Guillermo doesn't respond.
+
+>HIT GUILLERMO
+You sock Guillermo in the mouth.
+
+You can see a bagel here.
+
+>LIFT BAGEL
+You lift the bagel.
+
+>HOOK BAGEL TO PAPERCLIP
+You attach the discus to the paperclip.
+
+>X GUILLERMO
+Guillermo is very short.
+
+>UNHOOK BAGEL FROM PAPERCLIP
+You detach the discus from the paperclip.
+
+>GUILLERMO,  
+Guillermo looks at you quizzically. "Did you say something?"
+
+>X GUILLERMO
+Guillermo is very short.
+
+>UNHOOK DISCUS FROM CORK
+You detach the discus from the cork.
+
+>QUIT

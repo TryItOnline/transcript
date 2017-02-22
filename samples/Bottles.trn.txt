@@ -1,0 +1,64 @@
+' TRANSCRIPT version of 99 Bottles of beer (Bottles.trn)
+' Philipp Winterberg, http://www.winterbergs.de
+
+At Home with Friends
+You are at home in your room with a few friends and lots of beer.
+That really looks like a Mission. ;-)
+Joe, Till, Dominik, Peter and Juliet are here.
+You can see some bottles, your wall, and some beer here.
+
+>GET BOTTLES
+Taken.
+
+>SET WALL TO 99
+You line up all 99 bottles in a long row.
+
+>SET BEER TO 99
+You recheck the amount of bottles. YES! There are
+99 bottles and all of them do contain beer.
+
+>JOE, +BEER bottle(s) of beer on the wall,
+Joe gets what you want and smiles.
+
+>TILL, +BEER bottle(s) of beer.
+Till nods. Joe and Till will sing the first two lines of the famous beer song.
+
+>DOMINIK, Take one down, pass it around,
+Dominik agrees, but Peter also wants to sing that line and freaks out.
+
+>PETER, Shut up!
+He calms down...
+
+>JULIET, +BEER bottle(s) of beer on the wall.
+She looks so sweet. I think she likes you.
+
+>KISS JULIET
+Now everything is ready for the beer song. Really everything?
+
+>LIFT BOTTLES
+Good job.
+
+>ATTACH BOTTLES TO WALL
+All bottels are save now.
+
+>EXAMINE JOE
+Joe sings his part and takes a sip.
+
+>EXAMINE TILL
+Till looks funny.
+
+>EXAMINE DOMINIK
+Dominik is tall and soon to be drunk.
+
+>DROP BEER
+First one done. Some more to come.
+
+>EXAMINE JULIET
+She sings her line, walks over to you and kisses you.
+
+>DETACH BOTTLES FROM WALL
+You empty the other 97 bottles in just about no time.
+Now you might want to leave this place and find a party.
+
+>QUIT
+You have left the building.
